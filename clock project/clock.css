@@ -1,0 +1,78 @@
+#clockimage{
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+    border: solid 5px ;
+}
+body
+{
+  text-align: center;
+    background: linear-gradient(to right, #002fff 9%, #0062ff 100%);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ #message {
+   text-align: center;
+    margin: -50px 0 10px 0;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+    /* font-family: sans-serif; */
+    font-weight: bolder;
+ }
+  .container
+  {
+    text-align: center;
+  }
+  .row
+  {
+    border: 1px solid;
+    padding: 5px;
+  }
+  .col
+  {
+    border: 1px solid;
+    padding: 3px;
+  }
+  span{
+    font-size: large;
+   /* font-family: sans-serif;  */
+    font-weight: bold;
+    padding-top: 10vm;
+    
+   
+  }
+  
+  #clock
+  {
+    color: rgb(0, 0, 0);
+    font-size: 7vw;
+    /* border: 5px solid black; */
+    text-align: center;
+    
+  }
+
+  #napTimeSelector, #wakeUpTimeSelector, #lunchTimeSelector
+  {
+    padding:4px;
+   
+    border-radius: 5px;
+    margin: 5px;
+  }
+  
+
+  
+ 
+#menus
+{
+  padding-top: 2% ;
+  padding-bottom: 2%;
+}
+h1{
+  text-align: center;
+}
+#ttimage
+{
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+    border: solid 5px ;
+}
